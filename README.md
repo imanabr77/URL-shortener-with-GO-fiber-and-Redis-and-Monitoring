@@ -1,5 +1,8 @@
 # URL-shortener-with-GO-fiber-and-Redis-and-Monitoring
 
+
+This project is implemented using Go language, Fiber package and Redis, a URL-shortner.
+
 ## Setup 
 
 
