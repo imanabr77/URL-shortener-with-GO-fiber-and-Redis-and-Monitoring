@@ -12,7 +12,7 @@ services:
     ports:
       - "6379:6379"
     volumes:
-      - db_data:/data
+      - db_data:./data
 
   redis-exporter:
     image: oliver006/redis_exporter
